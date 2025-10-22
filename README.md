@@ -1,19 +1,24 @@
-# Personal Portfolio Website
+# Portfolio Website
 
-This is my personal portfolio website built using **HTML** and **CSS**.  
-The website showcases my skills, projects, and contact details in a clean and responsive layout.
+This is a basic portfolio website created using **HTML** and **CSS**.  
+The website contains two pages: **Home** and **Contact**.
 
-## 🔍 Features
-- Clean and modern UI
-- Responsive design for different screen sizes
-- Sections for About, Skills, Projects, and Contact
-- Created using only HTML & CSS (no frameworks)
+## 📌 Pages
+- **Home Page** – Contains a short introduction about me
+- **Contact Page** – Contains my contact information
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
-## 📌 How to View
-You can view the live version of this portfolio by opening the `index.html` file in your browser or by visiting the GitHub Pages link (if enabled).
+## 📥 How to View
+1. Download or clone this repository
+2. Open the `index.html` (Home page) file in your web browser
+3. Use the navigation link to open the Contact page
 
-Thank you for visiting my portfolio website 
+## 🚀 Future Improvements
+- Add a Projects page
+- Improve styling and layout
+- Add responsiveness for mobile devices
+
+Thank you for visiting my portfolio website
